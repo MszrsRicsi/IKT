@@ -1,3 +1,3 @@
 # IKT
 kapcsolat próba
-2
+233
