@@ -1,3 +1,2 @@
 # IKT
-kapcsolat próba
-kapcsolat cucc létrejött
+első kapcsolat cucc létrejött
